@@ -1,6 +1,0 @@
-com/dynarest/documents/ResourceData.class
-com/dynarest/entities/Resource.class
-com/dynarest/DynarestApplication.class
-com/dynarest/repo/ResourceRepo.class
-com/dynarest/entities/Field.class
-com/dynarest/repo/ResourceDataRepo.class
